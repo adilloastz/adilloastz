@@ -40,9 +40,37 @@ Welcome to my GitHub profile! I'm passionate about building robust web and mobil
 - VS Code
 - Android Studio
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Adillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilloastz&show_icons=true&theme=tokyonight)
+```text
+🔥 99 contributions in 2026
+📦 17 Public Repositories
+👥 2 Followers · 2 Following
+⭐ Working with PHP, Java, TypeScript, and Blade
+```
+
+### 🏆 Top Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 🌐 [Travelvista Website](https://github.com/adilloastz/travelvista-website-php)
+Final Project Web Programming - A comprehensive travel booking platform built with PHP
+
+### 📱 [HealthyApp Android](https://github.com/adilloastz/healthyapp-android-java)
+Final Project Mobile Programming - Health tracking application for Android
+
+### 💪 [BuddyList NetBeans](https://github.com/adilloastz/buddylist-netbeans-java)
+Final Project Object Oriented Programming - Task management application
+
+### 🎨 [Svelte Tutorial](https://github.com/adilloastz/svelte-tutorial)
+Learning project exploring Svelte framework
 
 ## 📫 Connect With Me
 
@@ -59,3 +87,5 @@ Welcome to my GitHub profile! I'm passionate about building robust web and mobil
 ---
 
 ![](https://komarev.com/ghpvc/?username=adilloastz&color=blueviolet)
+
+*"Quality is not an act, it is a habit." - Aristotle*
