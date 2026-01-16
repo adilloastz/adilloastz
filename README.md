@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about building robust web and mobil
 - PHP, Java, JavaScript/TypeScript, Blade
 
 **Frontend:**
-- React, Vue.js, HTML5, CSS3, TailwindCSS
+- Nuxt & Vue.js, HTML5, CSS3, TailwindCSS
 
 **Backend:**
 - Laravel, Node.js, Express
