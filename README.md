@@ -44,20 +44,6 @@ Welcome to my GitHub profile! I'm passionate about building robust web and mobil
 
 ![Adillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilloastz&show_icons=true&theme=tokyonight)
 
-## 🌟 Featured Projects
-
-### 🌐 [Travelvista Website](https://github.com/adilloastz/travelvista-website-php)
-Final Project Web Programming - A comprehensive travel booking platform built with PHP
-
-### 📱 [HealthyApp Android](https://github.com/adilloastz/healthyapp-android-java)
-Final Project Mobile Programming - Health tracking application for Android
-
-### 💪 [BuddyList NetBeans](https://github.com/adilloastz/buddylist-netbeans-java)
-Final Project Object Oriented Programming - Task management application
-
-### 🎨 [Svelte Tutorial](https://github.com/adilloastz/svelte-tutorial)
-Learning project exploring Svelte framework
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilloanastazikri/)
@@ -73,5 +59,3 @@ Learning project exploring Svelte framework
 ---
 
 ![](https://komarev.com/ghpvc/?username=adilloastz&color=blueviolet)
-
-*"Quality is not an act, it is a habit." - Aristotle*
