@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animasi Header Mengetik -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=HI+THERE%2C+I'M+ADILLO+ANASTA!;FULL+STACK+DEVELOPER;QA+MANUAL+TESTER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=HI+THERE%2C+I'M+ADILLO+ANASTA!;FULL+STACK+DEVELOPER;IT+APPLICATION+SUPPORT" alt="Typing SVG" />
 
   <p align="center">
     <strong>Building robust digital solutions with clean code, modern architecture, and meticulous QA testing.</strong>
