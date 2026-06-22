@@ -88,7 +88,7 @@ I am a **Full Stack Developer** and **QA Specialist** based in Jakarta, Indonesi
 
 Here are a few highlight works from my portfolio:
 
-*   **Tracy Enhancement (Telkomsel)** — Costing & profitability analysis platform. Migrated 20+ modules to Vue 3, TypeScript, and integrated Google Maps API for site analysis.
+*   **TRACY (Telkomsel)** — Costing & profitability analysis platform. Migrated 20+ modules to Vue 3, TypeScript, and integrated Google Maps API for site analysis.
 *   **Platform SDGs Corner (PT Astra Daihatsu Motor)** — Interactive sustainability showcase portal built with Nuxt 3, Prisma ORM, and MySQL.
 *   **Employee Self Service & Recruitment Portal (PT Milenia Mega Mandiri)** — Enterprise HRIS and ATS ecosystem built with Laravel & Native PHP.
 *   **HSE Management System (PT Astra Daihatsu Motor)** — Web application to digitalize safety operations, centralizing hazard reporting and securing green certifications.
