@@ -23,7 +23,7 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=adilloastz&show_icons=true&theme=tokyonight&bg_color=0a0f1c&title_color=6366f1&icon_color=6366f1&text_color=fafafa&border_color=1e293b&border_radius=12" width="100%" alt="Adillo's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=adilloastz&show_icons=true&theme=tokyonight&bg_color=0a0f1c&title_color=6366f1&icon_color=6366f1&text_color=fafafa&border_color=1e293b&border_radius=12&count_private=true" width="100%" alt="Adillo's GitHub Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilloastz&theme=tokyonight&background=0a0f1c&ring=6366f1&fire=6366f1&currStreakNum=fafafa&sideNums=94a3b8&stroke=1e293b&border_radius=12" width="100%" alt="Adillo's Streak Stats" />
